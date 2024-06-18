@@ -11,6 +11,8 @@
   :technologist: Estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul EAD, restam apenas 2 :raised_hands:
 </p>
 
+  :building_construction: Meu inglês ainda é básico, tenho experiência com banco de dados SQL, construção de páginas web utilizando HTML, CSS, Bootstrap e JavaScript, recentemente tenho desenvolvimento algumas aplicações utilizando Java 17, Spring Framework, Kafka, Flyway, entre  outras ferramentas. 
+
 <!-- Dropdown -->
 <details>
   <summary>Um pouco mais sobre mim</summary>
@@ -23,8 +25,6 @@
   <details>Para reclamar da quantidade de episódios e assisti de uma vez, TCHOLA! E assistam Frieren. :thumbsup:</details>
 
   Em busca do shape... :muscle:
-  
-  :building_construction: Meu inglês ainda é básico, tenho experiência com banco de dados SQL, construção de páginas web utilizando HTML, CSS, Bootstrap e JavaScript, recentemente tenho desenvolvimento algumas aplicações utilizando Java 17, Spring Framework, Kafka, Flyway, entre  outras ferramentas. 
 </details>
 
 <!-- Links -->
