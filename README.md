@@ -8,21 +8,20 @@
 <p>
   E aí :thumbsup:, sou o Gabriel!
 
-  :technologist: Estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul EAD, restam apenas 2 :raised_hands:
+  :technologist: Estou cursando o 5º e último semestre de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul EAD :raised_hands:
 </p>
 
-  :building_construction: Meu inglês ainda é básico, tenho experiência com banco de dados SQL, construção de páginas web utilizando HTML, CSS, Bootstrap e JavaScript, recentemente tenho desenvolvimento algumas aplicações utilizando Java 17, Spring Framework, Kafka, Flyway, entre  outras ferramentas. 
+  :building_construction: Meu inglês ainda é básico, tenho experiência com banco de dados SQL, construção de páginas web utilizando HTML, CSS, Bootstrap e JavaScript, recentemente tenho desenvolvimento algumas aplicações utilizando Java, Spring Framework, Kafka, Docker entre outras ferramentas. 
 
 <!-- Dropdown -->
 <details>
   <summary>Um pouco mais sobre mim</summary>
   
-  Tenho 23 anos :older_man:, atualmente moro no Brasil - RS :brazil:. 
+  Tenho 24 anos :older_man:, atualmente moro no Brasil - RS :brazil:. 
   
   Ultimamente tenho jogado bastante jogos do gênero RPG :video_game:, tipo Elden Ring, Baldur's Gate III e até mesmo Genshin Impact, mas nenhum supera um bom e velho Counter-Strike.
   
   Assisto uns animes e leio uns mangás :nerd_face:, atualmente meu preferido é One Piece. :anchor:
-  <details>Para reclamar da quantidade de episódios e assisti de uma vez, TCHOLA! E assistam Frieren. :thumbsup:</details>
 
   Em busca do shape... :muscle:
 </details>
